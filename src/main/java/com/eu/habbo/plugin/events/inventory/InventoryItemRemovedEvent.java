@@ -1,0 +1,9 @@
+package com.eu.habbo.plugin.events.inventory;
+
+import com.eu.habbo.habbohotel.rooms.items.entities.RoomItem;
+
+public class InventoryItemRemovedEvent extends InventoryItemEvent {
+    public InventoryItemRemovedEvent(RoomItem item) {
+        super(item);
+    }
+}

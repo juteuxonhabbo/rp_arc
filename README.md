@@ -1,1 +1,1 @@
-# rp_arc
+# Arcturus Archangel by LeChris
